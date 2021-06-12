@@ -2,18 +2,18 @@
 Welcome to the class repository for Asian Am 191. 
 
 Important Repositories can be found below:
-
+<!-- 
 Repo|Link
 --|--
 Lab Assignments|[https://github.com/albertkun/21S-ASIAAM-191A-Assignments](https://github.com/albertkun/21S-ASIAAM-191A-Assignments)
-Git Practicing|[https://github.com/albertkun/21S-AA191-GitPracticing](https://github.com/albertkun/21S-AA191-GitPracticing)
+Git Practicing|[https://github.com/albertkun/21S-AA191-GitPracticing](https://github.com/albertkun/21S-AA191-GitPracticing) -->
 
 
 
 ## Class Details
-Asian American Studies Department, Spring 2021
+Asian American Studies Department, Summer Session A, 2021
 
-Tuesdays and Thursdays 2:00PM – 3:15PM
+Mondays, Wednesdays, and Fridays 1:00PM – 2:20PM
 
 ## Instructor:
 Albert Kochaphum (albertkun@oarc.ucla.edu)
@@ -22,14 +22,14 @@ Albert Kochaphum (albertkun@oarc.ucla.edu)
 - https://calendly.com/albertkun/office-hours
 
 ## Preparation:
-- Fill out the [pre-course survey](https://forms.gle/2VFUFsFRmz16dYm88)
- by 03/30/2021 
+- Fill out the [pre-course survey](https://forms.gle/nifb6shCtFvEftZY7)
+ by 6/20/2021
 
 
-[Static Syllabus in PDF form](AAS-191A-SP21_Syllabus_2021.pdf)
+<!-- [Static Syllabus in PDF form](AAS-191A-SP21_Syllabus_2021.pdf) -->
 #### Please note: This syllabus is subject to change.
 
-[<img src=".\Guides\media\syllabus1.png" style="width:5.06944in;height:2.56289in" />](https://www.hatecrimemap.com)
+[<img src=".\_guides\media\syllabus1.png" style="width:5.06944in;height:2.56289in" />](https://www.hatecrimemap.com)
 
 (Lam, C., Kochaphum, A., UCLA [HateCrimeMap](https://www.hatecrimemap.com), 2020)
 
@@ -67,9 +67,9 @@ physical world around us. However, in non-profits and other fields of
 civic engagement, these tools are underutilized or simply seen as tools
 “left to the experts”. This course prepares students to be informed
 digital citizens and transfer these tools for practical application in
-civil society. The two main objectives for this course are, 1) to walk
-away with technical web development skills relevant to mapping for civil
-society, and 2) to apply an ethical mapping framework to such projects.
+civil society. The two main objectives for this course are: 
+1. To walk away with technical web development skills relevant to mapping for civil society
+2. To apply an ethical mapping framework to such projects.
 
 ## Course Objectives:
 
@@ -136,8 +136,7 @@ making a learning environment that breaks down these initial barriers.
 We all have gone through the same struggles learning new technology, and
 I strongly encourage you get help as often as possible. Steps for
 troubleshooting technical problems can often be solved by a quick online
-search or reviewing lab materials for a misstep. The class community
-discussion "Help Desk" category on [GitHub](https://github.com/albertkun/21S-191A/discussions/categories/help-desk) is another resource for help. If all else fails, do not hesitate to reach out to me.
+search or reviewing lab materials for a misstep. The class community discussion forums is another resource for help. Regardless, do not hesitate to reach out to me for help.
 
 ## Assignments and Evaluation:
 
