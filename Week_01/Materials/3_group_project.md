@@ -4,7 +4,7 @@
 1. Add a `readme.md` to the repository that describes the following:
    - What social problem is being addressed, - The local community or non-profit that is being empowered by your application
    - What problems you think may arise in developing this application (both technical and ethical).
-   > Note: This is your group's introduction to the world, make sure you use [Markdown formatting](https://guides.github.com/features/mastering-markdown/) to style your content properly.  
+   > Note: This is your group's introduction to the world, make sure you use [Markdown formatting](https://Guides.github.com/features/mastering-markdown/) to style your content properly.  
 2. Add your group name and repo link to the Google Sheet here: 
 [https://docs.google.com/spreadsheets/d/1svMIHd8KyPr7VmgU1bKC5wbRPS9sMtNnjXDgoTH5GMo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1svMIHd8KyPr7VmgU1bKC5wbRPS9sMtNnjXDgoTH5GMo/edit?usp=sharing)
 ![./media/group_fill_out.png](./Materials/media/group_fill_out.png)
