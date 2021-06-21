@@ -4,8 +4,6 @@
 ### Introducing the course, GIS, data, and ethics
 Charting the course for the class and how it relates to GIS, data, and ethics.
 
-Note: Slides will be made available after the lecture.
-
 [Lecture 1 Slides](./Materials/AA191_SU_W1_Lecture_1.pdf
 )
 
