@@ -18,7 +18,7 @@ Mondays, Wednesdays, and Fridays 1:00PM – 2:20PM
 ## Instructor:
 Albert Kochaphum (albertkun@oarc.ucla.edu)
 ## Office Hours:
-[Fridays 3pm – 5pm](https://moodle2.sscnet.ucla.edu/mod/zoom/view.php?id=710586) and by appointment below:
+[Thursdays 4pm – 5pm](https://moodle2.sscnet.ucla.edu/mod/zoom/view.php?id=710586) and by appointment below:
 - https://calendly.com/albertkun/office-hours
 
 ## Preparation:
@@ -154,8 +154,10 @@ attend all lectures and labs each week.
 | Final Project and Presentation | 1                   | 250        | 250              | 25%             |
 | Group Project Assignments             | 4                   | 50         | 200              | 20%             |
 | Participation                  |                     |            | 100              | 10%             |
+| **Grand Total**                  |                     |            | **1000**              | **100%**             |
 
-Detailed list of assignments can be found on this page.
+<!-- Detailed list of assignments can be found on this page. -->
+
 ### Participation:
 While participation is a bit subjective, as long as you are active in the course you should not worry. The following are examples of active participation:
   - Participating in class discussions 
@@ -217,11 +219,11 @@ If you have any issues with installing the above, please do not hesitate to cont
 </tr>
 <tr class="even">
 <td>4</td>
-<td><strong>Developing for Civil Society</strong></td>
+<td><strong>Designing for Civil Society</strong></td>
 </tr>
 <tr class="odd">
 <td>5</td>
-<td><strong>Human-Centered Design</strong></td>
+<td><strong>Mentorship and Collaboration </strong></td>
 </tr>
 <tr class="odd">
 <td>6</td>
