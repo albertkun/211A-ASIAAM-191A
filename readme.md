@@ -29,7 +29,7 @@ Albert Kochaphum (albertkun@oarc.ucla.edu)
 <!-- [Static Syllabus in PDF form](AAS-191A-SP21_Syllabus_2021.pdf) -->
 #### Please note: This syllabus is subject to change.
 
-[<img src=".\_guides\media\syllabus1.png" style="width:5.06944in;height:2.56289in" />](https://www.hatecrimemap.com)
+[<img src=".\Guides\media\syllabus1.png" style="width:5.06944in;height:2.56289in" />](https://www.hatecrimemap.com)
 
 (Lam, C., Kochaphum, A., UCLA [HateCrimeMap](https://www.hatecrimemap.com), 2020)
 
