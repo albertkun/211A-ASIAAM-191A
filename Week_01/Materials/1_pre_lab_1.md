@@ -15,8 +15,8 @@ Please have this completed before the lab:
 
 
 Here are guides to help with signing-up with GitHub and installing GitSCM:
-1. [How to sign-up for GitHub](../../_guides/github_sign_up.md)
-2. [How to install GitSCM](../../_guides/gitscm.md)
+1. [How to sign-up for GitHub](../../guides/github_sign_up.md)
+2. [How to install GitSCM](../../guides/gitscm.md)
 
 If you have any further trouble with these steps, be sure reach out to me [albertkun@idre.ucla.edu](mailto:albertkun@idre.ucla.edu) before the lab session.
 
