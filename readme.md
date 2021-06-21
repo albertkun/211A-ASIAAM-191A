@@ -1,7 +1,7 @@
 #  Asian Am 191A – Web Development and GIS for Social Change: Critical Data for Transforming Civil Society 
 Welcome to the class repository for Asian Am 191. 
 
-Important Repositories can be found below:
+<!-- Important Repositories can be found below: -->
 <!-- 
 Repo|Link
 --|--
