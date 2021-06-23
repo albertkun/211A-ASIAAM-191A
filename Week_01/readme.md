@@ -9,19 +9,19 @@ Charting the course for the class and how it relates to GIS, data, and ethics.
 
 <!-- [Lecture 1 Recording](https://ucla.zoom.us/rec/share/HuP2yv24GwjVpvclpqBeRUKCO-FoYK3WAVNtWd_ekZOQh6jQOAaX0o3YdNyRWUmy.MWFkQq-g0tsAaftY) -->
 ## Lab
-### GITting Used to Web Development
-<!-- ### [GITing started with Spatial Data Sets](./Lab/readme.md) -->
+### [GITting Used to Web Development and JavaScript](./Lab/readme.md)
 <!-- [Lab 1 Slides](./Materials/AA191_S_W1_Lab_1.pdf )-->
-This lab will introduce GitHub and web development.
 
 ## Assignments
-Unless specified otherwise, all assignments are **due at the beginning of class**. Late assignments will be given half credit up until a week.
+> Unless specified otherwise, all assignments are **due at the beginning of class**. Late assignments will be given half credit up until a week.
 
 ### Due Wednesday 6/23:
 - #### [**Pre-lab #1**](./Materials/1_pre_lab_1.md)
 
-### Due  Wednesday 6/30 at 1pm PST:
+### Due  Wednesday 6/30:
 - #### [**Thinking Cap: What are problems with the way we use data and GIS?**](./Materials/2_thinking_cap_1.md)
+### Due  Friday 7/1:
+- #### [**Lab #1: Portfolio**](./Lab/lab_assignment.md)
 
 - #### **Finish the weekly reading**
 
