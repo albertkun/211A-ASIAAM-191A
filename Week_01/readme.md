@@ -20,17 +20,10 @@ Charting the course for the class and how it relates to GIS, data, and ethics.
 
 ### Due  Wednesday 6/30:
 - #### [**Thinking Cap: What are problems with the way we use data and GIS?**](./Materials/2_thinking_cap_1.md)
+- #### [**Finish the weekly reading**](./Materials/reading.md) [[PDF]](Materials/An_Introduction_to_Critical_Cartography.pdf)
 ### Due  Friday 7/1:
 - #### [**Lab #1: Portfolio**](./Lab/lab_assignment.md)
 
-- #### **Finish the weekly reading**
-
-### **Weekly Reading:**
-> J. W. Crampton and J. Krygier (2010) “An Introduction to Critical Cartography”. https://www.researchgate.net/publication/241435510_An_Introduction_to_Critical_Cartography
-
-This 15-page article summarizes critical cartography by introducing ethics and modern mapmaking technologies.
-
-[Local PDF](./Materials/An_Introduction_to_Critical_Cartography.pdf)
 
 <!-- ## Optional Readings and Resources
 [Introduction to GIS](./Materials/a_optional_gis.md) -->
