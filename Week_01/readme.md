@@ -7,7 +7,6 @@ Charting the course for the class and how it relates to GIS, data, and ethics.
 [Lecture 1 Slides](./Materials/AA191_SU_W1_Lecture_1.pdf
 )
 
-<!-- [Lecture 1 Recording](https://ucla.zoom.us/rec/share/HuP2yv24GwjVpvclpqBeRUKCO-FoYK3WAVNtWd_ekZOQh6jQOAaX0o3YdNyRWUmy.MWFkQq-g0tsAaftY) -->
 ## Lab
 ### [GITting Used to Web Development and JavaScript](./Lab/readme.md)
 [Lab 1 Slides](./Materials/AA191_S_W1_Lab_1.pdf )
