@@ -17,11 +17,12 @@ Charting the course for the class and how it relates to GIS, data, and ethics.
 ### Due Wednesday 6/23:
 - #### [**Pre-lab #1**](./Materials/1_pre_lab_1.md)
 
-### Due  Wednesday 6/30:
+### Due Wednesday 6/30:
 - #### [**Thinking Cap: What are problems with the way we use data and GIS?**](./Materials/2_thinking_cap_1.md)
 - #### [**Finish the weekly reading**](./Materials/reading.md) [[PDF]](Materials/An_Introduction_to_Critical_Cartography.pdf)
-### Due  Friday 7/1:
+### Due Friday 7/1:
 - #### [**Lab #1: Portfolio**](./Lab/lab_assignment.md)
+- #### [**Group Assignment #1: Repository and Readme**](./Materials/3_group_project.md)
 
 
 <!-- ## Optional Readings and Resources
