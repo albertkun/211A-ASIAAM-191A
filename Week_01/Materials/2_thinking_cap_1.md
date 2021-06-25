@@ -7,7 +7,7 @@
  - 3 to 5 sentences minimum
  - Feel free to include links and images
 
-See [how to submit thinking caps, part 1](../Guides/thinking_caps.md).
+For more info see [how to submit thinking caps, part 1](../Guides/thinking_caps.md).
 
 Note: To be eligible for extra credit, you must complete this part 1-day before the due date (e.g. June 29th, 1pm PST).
 
@@ -16,4 +16,4 @@ Note: To be eligible for extra credit, you must complete this part 1-day before 
 
 Leave a reply on the posts of two other students, reflecting on what you think of their discussion post. You can ask a thoughtful follow-up question, express similar experiences, and share resources.
 
-See [how to submit thinking caps, part 2](../Guides/thinking_caps.md)
+For more info see [how to submit thinking caps, part 2](../Guides/thinking_caps.md)
