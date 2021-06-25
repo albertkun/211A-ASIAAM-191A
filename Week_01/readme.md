@@ -11,7 +11,7 @@ Charting the course for the class and how it relates to GIS, data, and ethics.
 ### [GITting Used to Web Development and JavaScript](./Lab/readme.md)
 [Lab 1 Slides](./Materials/AA191_S_W1_Lab_1.pdf )
 
-## Guides
+## Getting Started Guides
 1. [Signing-up with GitHub](../Guides/github_sign_up.md)
 2. [Git Cloning: Downloading a repo to your computer](../Guides/git_cloning.md)
 3. [Git Committing: Saving your changes to a repo](../Guides/git_commit.md)
