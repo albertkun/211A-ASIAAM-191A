@@ -1,4 +1,4 @@
-# Group Assignment 1: Initial Repository
+# Group Assignment 1: Repository and Readme
 ### Due Friday 7/2:
 Check for your group on this spreadsheet:
 [https://docs.google.com/spreadsheets/d/1svMIHd8KyPr7VmgU1bKC5wbRPS9sMtNnjXDgoTH5GMo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1svMIHd8KyPr7VmgU1bKC5wbRPS9sMtNnjXDgoTH5GMo/edit?usp=sharing)
