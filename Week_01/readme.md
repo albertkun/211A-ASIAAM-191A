@@ -11,6 +11,15 @@ Charting the course for the class and how it relates to GIS, data, and ethics.
 ### [GITting Used to Web Development and JavaScript](./Lab/readme.md)
 [Lab 1 Slides](./Materials/AA191_S_W1_Lab_1.pdf )
 
+## Guides
+1. [Signing-up with GitHub](../Guides/github_sign_up.md)
+2. [Git Cloning: Downloading a repo to your computer](../Guides/git_cloning.md)
+3. [Git Committing: Saving your changes to a repo](../Guides/git_commit.md)
+4. [Git Creating: Creating a new repo and inviting group members](../Guides/git_creating.md)
+5. [Submitting assginments](../Guides/submit.md)
+6. [Thinking Caps](../Guides/thinking_caps.md)
+<!-- [Introduction to GIS](./Materials/a_optional_gis.md) -->
+
 ## Assignments
 > Unless specified otherwise, all assignments are **due at the beginning of class**. Late assignments will be given half credit up until a week.
 
@@ -26,11 +35,3 @@ Charting the course for the class and how it relates to GIS, data, and ethics.
 - #### [**Group Assignment #1: Repository and Readme**](./Materials/group_assignment.md)
 
 
-## Guides
-1. [Signing-up with GitHub](../Guides/github_sign_up.md)
-2. [Git Cloning: Downloading a repo to your computer](../Guides/git_cloning.md)
-3. [Git Committing: Saving your changes to a repo](../Guides/git_commit.md)
-4. [Git Creating: Creating a new repo and inviting group members](../Guides/git_creating.md)
-5. [Submitting assginments](../Guides/submit.md)
-6. [Thinking Caps](../Guides/thinking_caps.md)
-<!-- [Introduction to GIS](./Materials/a_optional_gis.md) -->
