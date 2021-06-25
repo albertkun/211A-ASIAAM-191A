@@ -27,12 +27,12 @@
 <!-- -->
 
 4.  Set our identity to our GitHub username for Git by running:  
-    `git config --global user.name "YOUR_GITHUB_USERNAME"`
+    >git config --global user.name "YOUR_GITHUB_USERNAME"
     - Remember to change `"YOUR_GITHUB_USERNAME"` to your actual GitHub Username and include the double quotes `" "`
 
 5.  Now set your email to the email you signed up with GitHub by running :
-`git config --global user.email YOUR@EMAIL.COM`
-    - Remember to change `YOUR@EMAIL.COM` to your actual GitHub email
+>git config --global user.email YOUR@EMAIL.COM
+    - Remember to change `YOUR@EMAIL.COM` to your actual email that you signed with Github.
 
 <!-- -->
 
