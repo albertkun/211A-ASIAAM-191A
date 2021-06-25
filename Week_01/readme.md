@@ -17,7 +17,7 @@ Charting the course for the class and how it relates to GIS, data, and ethics.
 3. [Git Committing: Saving your changes to a repo](../Guides/git_commit.md)
 4. [Git Creating: Creating a new repo and inviting group members](../Guides/git_creating.md)
 5. [Submitting assginments](../Guides/submit.md)
-6. [Thinking Caps](../Guides/thinking_caps.md)
+6. [Subtmitting Thinking Caps](../Guides/thinking_caps.md)
 <!-- [Introduction to GIS](./Materials/a_optional_gis.md) -->
 
 ## Assignments
