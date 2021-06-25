@@ -5,7 +5,7 @@
 
 1. Have one person create a new repo for the group and invite everyone as collaborators. 
    
-- [Guide on how to create a new repo and invite](../Guides/git_creating.md) 
+- [Guide on how to create a new repo and invite](../../Guides/git_creating.md) 
 2. Add a `readme.md` to the repository that describes the following:
    - What social problem is being addressed
    - The local community or non-profit that is being empowered by your application
