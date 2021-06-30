@@ -8,3 +8,4 @@ As we dive in to coding for empowerment this week, reflect on how you think part
 
 ## Submission
 Respond to the above prompt in 3 - 4 sentences on the GitHub discussion post here:
+ - https://github.com/albertkun/211A-ASIAAM-191A/discussions/7
