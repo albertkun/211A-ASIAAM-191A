@@ -452,7 +452,7 @@ addMarker(36,-120,'location 2','another random location')
     <script src="js/init.js"></script>
 </html>
 ```
-## Lab Assignment #3 - JavaScript FUNctions
+## Lab Assignment #2 - JavaScript FUNctions
 ### Due 7/9
 
 In this lab, we learned how functions are helpful for automating tasks. Functions also form the basis of the programming we will be doing. Your assignment this week is to create a map that will pan to certain makers when a button is clicked. 
