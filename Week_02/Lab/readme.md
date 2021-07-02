@@ -375,7 +375,7 @@ function createButtons(lat,lng,title){
     newButton.setAttribute("lat",lat); // sets the latitude 
     newButton.setAttribute("lng",lng); // sets the longitude 
     newButton.addEventListener('click', function(){
-        map.flyTo([lat,lng]); //this is the flyTo from Leaflet
+        myMap.flyTo([lat,lng]); //this is the flyTo from Leaflet but using "myMap" as the target
     })
     document.body.appendChild(newButton); //this adds the button to our page.
 }
@@ -413,9 +413,9 @@ function createButtons(lat,lng,title){
     newButton.setAttribute("lat",lat); // sets the latitude 
     newButton.setAttribute("lng",lng); // sets the longitude 
 
-    // attach an event listner to the button with Leaflet's map.flyTo
+    // attach an event listner to the button with Leaflet's flyTo on our map called "myMap"
     newButton.addEventListener('click', function(){
-        map.flyTo([lat,lng]); 
+        myMap.flyTo([lat,lng]); 
     })
     document.body.appendChild(newButton); //this adds the button to our page.
 }
@@ -437,7 +437,7 @@ addMarker(36,-120,'location 2','another random location')
         <meta charset="utf-8" />
         <link rel="shortcut icon" href="#">
 
-        <style> #map{height:90vh}</style>
+        <style> #mapArea{height:90vh}</style>
 
         <!-- Leaflet's css-->
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
@@ -447,7 +447,7 @@ addMarker(36,-120,'location 2','another random location')
     </head>
     
     <body>
-        <div id="map"></div>
+        <div id="mapArea"></div>
     </body>
     <script src="js/init.js"></script>
 </html>
