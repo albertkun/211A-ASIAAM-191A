@@ -20,3 +20,7 @@ Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche
 - [Group Assignment #1](https://github.com/albertkun/211A-ASIAAM-191A/discussions/4)
 - Weekly reading
   - [Chambers, R. (2006) Participatory Mapping and Geographic Information Systems: Whose map? Who is empowered and who is disempowered? Who gains and who loses?](https://onlinelibrary.wiley.com/doi/epdf/10.1002/j.1681-4835.2006.tb00163.x)
+
+### Due 7/9
+- [Lab #2](https://github.com/albertkun/211A-ASIAAM-191A/discussions/9)
+- [Group Assignment #1](https://github.com/albertkun/211A-ASIAAM-191A/discussions/8)
