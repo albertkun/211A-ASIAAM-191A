@@ -466,7 +466,7 @@ The requirements are:
 ### Extra Credit:
 - Use something else like images or text to move the map.
 - Try something new with the [Leaflet API](https://leafletjs.com/reference-1.7.1.html)
-- 
+
 ## Submission
 - Commit your changes to GitHub
 - Commit and publish your file to [GitHub pages](https://guides.github.com/features/pages/)
