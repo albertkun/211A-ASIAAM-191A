@@ -21,4 +21,4 @@ https://docs.google.com/document/d/1jyfIitEGddZhMxFKWm_J4EunxSFBAHR9noZXsvt2NK8/
 ## Submission:
 Respond to the discussion post link for Group Assignment #2, here:
 
-https://github.com/albertkun/211A-ASIAAM-191A/discussions/5
+https://github.com/albertkun/211A-ASIAAM-191A/discussions/8
