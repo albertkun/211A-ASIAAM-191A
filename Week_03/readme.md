@@ -11,7 +11,7 @@
 Email: [yohman@gmail.com](mailto:yohman@gmail.com)
 
 ## Lab 
-- Loops and APIs
+- [Loops and APIs](./Lab/readme.md)
 
 ## Assignments
 ### Due Thursday 7/9:
