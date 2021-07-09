@@ -1,7 +1,7 @@
 ## Prompt:
 > Consider what are your ethical views when it comes to society and technology? How do your ethics empower civil society? 
 
-### Due 7/7 before class
+### Due 7/12 before class
 
 ### Note: Responses submitted after Sunday 2pm will not be eligible for awards.
 
