@@ -26,6 +26,7 @@ Email: [yohman@gmail.com](mailto:yohman@gmail.com)
 - #### Readings:
   1. [Crampton, J. (1995) The Ethics of GIS.](./Materials/CramptonCaGISEthics1995.pdf)
   2. [Marx, P. (2020) Don’t Blame Social Media. Blame Capitalism.](https://www.jacobinmag.com/2020/09/social-media-platform-capitalism-the-social-dilemma)
-
+### Due Wednesday 7/14:
+- Pre-lab (not up yet)
 ### Due Friday 7/16:
 - [Group Assignment #3](./Materials/group_assignment.md)
