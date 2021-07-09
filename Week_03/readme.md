@@ -11,7 +11,7 @@
 Email: [yohman@gmail.com](mailto:yohman@gmail.com)
 
 ## Lab 
-- [Loops and APIs](./Lab/readme.md)
+- [Survey Design](./Lab/readme.md)
 
 ## Assignments
 ### Due Thursday 7/9:
@@ -23,10 +23,9 @@ Email: [yohman@gmail.com](mailto:yohman@gmail.com)
 
 - #### [Thinking Cap #3](./Materials/thinking-cap.md)
 
-
 - #### Readings:
   1. [Crampton, J. (1995) The Ethics of GIS.](./Materials/CramptonCaGISEthics1995.pdf)
   2. [Marx, P. (2020) Don’t Blame Social Media. Blame Capitalism.](https://www.jacobinmag.com/2020/09/social-media-platform-capitalism-the-social-dilemma)
 
-<!-- ### Due Tuesday 7/14:
-Lab #3 -->
+### Due Friday 7/16:
+- [Group Assignment #3](./Materials/group_assignment.md)
