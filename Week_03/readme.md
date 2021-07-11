@@ -1,7 +1,7 @@
 # Week 3 - Developing for Civil Society
 
 ## Lecture
-- [Mapping the connection between technology and ethics: Part1](./Materials/AA191_S_W3_Lecture_3.pdf)
+- [Mapping the connection between technology and ethics](./Materials/AA191_S_W3_Lecture_3.pdf)
 
 ### Visiting Voices: Yoh Kawano 
 <img src="./Materials/media/yohkawano.jpg" alt="yoh picture" width="350"/>
