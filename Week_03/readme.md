@@ -1,7 +1,7 @@
 # Week 3 - Developing for Civil Society
 
 ## Lecture
-- [Mapping the connection between technology and ethics: Part1](./Materials/AA191_S_W3_Lecture_3part1.pdf)
+- [Mapping the connection between technology and ethics: Part1](./Materials/AA191_S_W3_Lecture_3.pdf)
 
 ### Visiting Voices: Yoh Kawano 
 <img src="./Materials/media/yohkawano.jpg" alt="yoh picture" width="350"/>
@@ -11,7 +11,7 @@
 Email: [yohman@gmail.com](mailto:yohman@gmail.com)
 
 ## Lab 
-- [Survey Design](./Lab/readme.md)
+- [Google Survey Design](./Lab/readme.md)
 
 ## Assignments
 ### Due Thursday 7/9:
