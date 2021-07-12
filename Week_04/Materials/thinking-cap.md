@@ -10,5 +10,5 @@ This week's thinking cap requires completing the [reading](./Design_Justice.pdf)
 
 ## Submission
 Respond to the above prompt at least 3 - 4 sentences on the GitHub discussion post here and respond to any students comment before class begins:
- - https://github.com/albertkun/211A-ASIAAM-191A/discussions/10
+ - https://github.com/albertkun/211A-ASIAAM-191A/discussions/12
 
