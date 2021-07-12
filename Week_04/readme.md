@@ -1,7 +1,7 @@
 # Week 4 - Designing for Civil Society
 
 ## Lecture
-- (Survey) Design and Ethics
+- [(Survey) Design and Ethics](./Materials/AA191_S_W4_Lecture_4.pdf)
 <!-- - (./Materials/AA191_S_W6_Lecture_6.pdf) -->
 
 ## Lab
