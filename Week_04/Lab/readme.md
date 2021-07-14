@@ -452,7 +452,9 @@ function addMarker(data){
         return data.timestamp
 }
 ```
-Final Code:
+
+	
+### Final Code:
 
 > js/init.js
 ```js
@@ -527,7 +529,7 @@ function formatData(theData){
 </html>
 ```
 
->style/style.css
+>styles/style.css
 ```css
 body{
     display:grid;
