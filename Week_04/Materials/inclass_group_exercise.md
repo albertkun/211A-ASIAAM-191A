@@ -9,6 +9,12 @@ Your diagram must have these components:
 
 Feel free to get creative, but be sure to emphasis how your questions are related to the objective of the survey.
 
+### Tools
+- [DrawIO](http://draw.io/)
+- [Canva](https://www.canva.com/)
+- [Powerpoint/Google Slides](https://www.google.com/slides/about/)
+
+
 See below for an example using [Draw.io](https://draw.io):
 ![](./media/ex_diagram.png)
 https://drive.google.com/file/d/12UbBhuXm28RAhgFo5nLiVZ9cmtzNecwi/view?usp=sharing

@@ -562,5 +562,5 @@ The requirements are:
 - Find your `index.html` in the `Week_04` folder and copy the URL. It should look something like this:
   - https://albertkun.github.io/211A-ASIAAM-191A-Assignments/Week_04/index.html
 - Paste your link as a comment in the Discussion forum for Lab Assignment #4: 
-  - https://github.com/albertkun/211A-ASIAAM-191A/discussions/137
+  - https://github.com/albertkun/211A-ASIAAM-191A/discussions/14
 
