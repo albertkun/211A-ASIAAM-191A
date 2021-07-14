@@ -11,6 +11,8 @@
 
 ### Due Wednesday 7/14:
 - [Pre-lab](./Lab/pre-lab.md)
+- [In-class Group Exercise: Survey Diagram](./Materials/inclass_group_exercise.md)
+  
 ### Due Friday 7/16:
 - [Group Assignment #3](../Week_03/Materials/group_assignment.md)
 
