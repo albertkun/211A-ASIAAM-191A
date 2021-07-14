@@ -20,3 +20,7 @@
 - [Thinking Cap #4](Materials/thinking-cap.md)
 #### Readings:
 1. [Costanza-Chock, S. (2018) Design Justice.](./Materials/Design_Justice.pdf)
+
+### Due Wednesday 7/21
+- [Lab Assignment #3](Lab/assignment.md)
+
