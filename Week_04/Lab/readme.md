@@ -448,7 +448,7 @@ Open the console and look at our data, we should take note of our field names an
 function addMarker(data){
         // console.log(data)
         // these are the names of our fields in the google sheets:
-        L.marker([data.latitude,data.longitude]).addTo(map).bindPopup(`<h2>${data.timestamp}</h2>`)
+        L.marker([data.lat,data.lng]).addTo(map).bindPopup(`<h2>${data.timestamp}</h2>`)
         return data.timestamp
 }
 ```
@@ -467,7 +467,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 function addMarker(data){
         // console.log(data)
         // these are the names of our fields in the google sheets:
-        L.marker([data.latitude,data.longitude]).addTo(myMap).bindPopup(`<h2>${data.timestamp}</h2>`)
+        L.marker([data.lat,data.lng]).addTo(myMap).bindPopup(`<h2>${data.timestamp}</h2>`)
         return data.timestamp
 }
 
