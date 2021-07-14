@@ -548,7 +548,7 @@ body{
 ```
 Congratulations on finishing the lab! You only need to add a few data fields in order to finish the lab assignment.
 
-## Lab Assignment #4 - Loops and APIs
+## Lab Assignment #3 - Loops and APIs
 ### Due 7/21
 
 In this week's lab, we learned how to loop through data and connect to an API. Your task is to create a mini-version of the final group project for the class that intakes data and maps it.
