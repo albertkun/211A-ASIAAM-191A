@@ -5,7 +5,7 @@
 <!-- - (./Materials/AA191_S_W6_Lecture_6.pdf) -->
 
 ## Lab
--  Loops and APIs
+-  [Loops and APIs](./Lab/readme.md)
 
 ## Assignments
 
