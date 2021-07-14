@@ -509,7 +509,7 @@ function formatData(theData){
         <title>Basic Leaflet Map</title>
         <meta charset="utf-8" />
         <link rel="shortcut icon" href="#">
-        <link rel="stylesheet" href="style/style.css">
+        <link rel="stylesheet" href="styles/style.css">
 
         <!-- Leaflet's css-->
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
