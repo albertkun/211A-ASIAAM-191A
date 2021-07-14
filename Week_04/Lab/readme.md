@@ -6,9 +6,9 @@
 > - Understand what an API is 
 > - Add data from a Google Sheet into a website
 
-Start by creating a `week5` folder in your lab assignments repo.
+Start by creating a `week4` folder in your lab assignments repo.
 
-> ### Optional: If you finished `lab 4`, you can also copy the contents of your `week_4` folder and skip the following setup section.
+> ### Optional: If you finished `lab 3`, you can also copy the contents of your `week_3` folder and skip the following setup section.
 
 ## Setup
 
