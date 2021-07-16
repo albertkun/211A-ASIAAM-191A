@@ -7,6 +7,9 @@
 ## Lab
 -  [Loops and APIs](./Lab/readme.md)
 
+## Group Work Day
+- [Survey Peer Review](./Materials/AA191_S_W4_Group_4.pdf)
+
 ## Assignments
 
 ### Due Wednesday 7/14:
