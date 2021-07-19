@@ -1,13 +1,12 @@
 # Week 5 - Facilitators to Social Change
 ## Lecture
-- From Design Justice to Collaboration
+- [From Design Justice to Collaboration](./Materials/AA191_S_W5_Lecture_5.pdf)
 
 ## Lab
--  Map Layers and Visual Design
-  
-  or
-
 -  Design De-CSSions
+  <!-- or -->
+<!-- -  Map Layers and Visual Design -->
+
 
 ## Assignments
 
