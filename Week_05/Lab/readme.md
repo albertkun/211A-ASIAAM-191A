@@ -32,7 +32,15 @@ Create the following files:
         <div id="mapArea"></div>
         <div id="survey">
         <!-- this is the iframe for our survey -->
-            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdqVT10bEbUrULMu6Etwj4ZBXGf-LAxcKohAINFbIdZmHS6OA/viewform?embedded=true" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    <iframe 
+    src="https://docs.google.com/forms/d/e/1FAIpQLSdqVT10bEbUrULMu6Etwj4ZBXGf-LAxcKohAINFbIdZmHS6OA/viewform?embedded=true" 
+    width="640" 
+    height="654" 
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0">
+        Loading…
+    </iframe>
         </div>
         <script src="js/init.js"></script>
     </body>
