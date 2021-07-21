@@ -3,7 +3,7 @@
 - [From Design Justice to Collaboration](./Materials/AA191_S_W5_Lecture_5.pdf)
 
 ## Lab
--  Design De-CSSions
+-  [Design De-CSSions](./Lab/readme.md)
   <!-- or -->
 <!-- -  Map Layers and Visual Design -->
 
