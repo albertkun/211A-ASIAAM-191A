@@ -2,11 +2,10 @@
 ## Lecture
 - [From Design Justice to Collaboration](./Materials/AA191_S_W5_Lecture_5.pdf)
 
-## Lab
+## Labs
 -  [Design De-CSSions](./Lab/readme.md) / [Slides](./Materials/AA191_S_W5_Lab_5.pdf)
--  
-  <!-- or -->
-<!-- -  Map Layers and Visual Design -->
+- [Map Layers and Visual Design](./LabB/readme.md)
+- [GitHub collaboration](./LabC/readme.md)
 
 
 ## Assignments
