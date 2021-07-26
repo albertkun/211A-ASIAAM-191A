@@ -118,7 +118,8 @@ body{
     display: grid;
     grid-template-columns: 1fr 1fr; 
     grid-auto-rows: minmax(5px, auto);
-    grid-template-areas: "header header" "mappanel sidebar" 
+    grid-template-areas: "header header" "mappanel sidebar";
+    height: 100vh;
 }
 
 header{
@@ -134,6 +135,7 @@ header{
     grid-area: sidebar;
     display:grid;
     grid-template-columns: repeat(2, 1fr);
+    height:80vh;
 }
 
 #survey {
@@ -598,15 +600,15 @@ body{
     grid-template-columns: 1fr 1fr; 
     grid-auto-rows: minmax(5px, auto);
     grid-template-areas: "header header" "mappanel sidebar";
+    height: 100vh;
 }
 
 header{
-    display: grid;
     grid-area: header;
 }
 
 #map{
-    /* height:80vh; */ 
+    height:80vh;
     grid-area: mappanel;
 } 
 
