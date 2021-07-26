@@ -129,7 +129,7 @@ git push
 With a better understanding of `branches` and `merge conflicts`, now we can go ahead and test some new features without worrying about blowing up our repository!
 
 ## Adding a new JavaScript Plugin
-In [LabB](../LabB/readme.md) when we added new basemaps, but we can take that one step further we can add brand-new functionality to our maps.
+In [LabB](../LabB/readme.md) we added a new basemaps! But we can take that one step further we can add brand-new functionality to our maps.
 
 While the [Leaflet provider](https://leaflet-extras.github.io/leaflet-providers/preview/) is a plug-in of basemaps for Leaflet, there are many plugins that we can use to add extra functionality to our mapplication in JavaScript as well.
 
