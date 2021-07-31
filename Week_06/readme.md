@@ -8,6 +8,9 @@
 ## Lecture
 - [Beyond Web Development and GIS for Social Change](./Materials/AA191_S_W6_Lecture_Final.pdf)
 
+
+## Group Day
+- [Rough Drafts](./Materials/AA191_S_W6_Group_Day.pdf)
 ## Assignments
 
 ### Due Friday 7/30:
